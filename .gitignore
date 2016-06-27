@@ -1,1 +1,5 @@
 /Zup/zup-ejb/nbproject/
+/Zup/zup-service/target/
+/Zup/zup-client/target/
+/Zup/zup-ejb/target/
+/Zup/zup-ear/target/
